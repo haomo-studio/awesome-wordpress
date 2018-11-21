@@ -87,7 +87,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Dev Plugins
 *Plugins can help in your workflow*
 
-* [Simple Custom CSS and JS](https://cn.wordpress.org/plugins/custom-css-js/) * ![5stars.png](http://img.hb.aicdn.com/46928568bd5af35db9ec6e850eb345a451bfbc7eb1c-482RHm_fw658) - 可给某些界面增加css和js控制
+* [Simple Custom CSS and JS](https://cn.wordpress.org/plugins/custom-css-js/) ![5stars.png](http://img.hb.aicdn.com/46928568bd5af35db9ec6e850eb345a451bfbc7eb1c-482RHm_fw658) - 可给某些界面增加css和js控制
 * [Theme Check](https://wordpress.org/plugins/theme-check/) - he theme check plugin is an easy way to test your theme and make sure it's up to spec with the latest theme review standards. With it, you can run all the same automated testing tools on your theme that WordPress.org uses for theme submissions.
 * [Posts 2 Posts](https://wordpress.org/plugins/posts-to-posts/) - Efficient many-to-many connections between posts, pages, custom post types, users.
 * [TGM Plugin Activation](tgmpluginactivation.com/) - TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins). It allows your users to install and even automatically activate plugins in singular or bulk fashion using native WordPress classes, functions and interfaces. You can reference pre-packaged plugins, plugins from the WordPress Plugin Repository or even plugins hosted elsewhere on the internet.

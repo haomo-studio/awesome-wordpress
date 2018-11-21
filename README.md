@@ -1,5 +1,12 @@
 # Awesome WordPress
-A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things.
+
+毫末科技常用WordPress插件。星号请采用以下图表示：
+
+* ![5stars.png](http://img.hb.aicdn.com/46928568bd5af35db9ec6e850eb345a451bfbc7eb1c-482RHm_fw658)
+* ![4stars.png](http://img.hb.aicdn.com/d8ce43a4dad92b231d92dd64869a5c15ac32d980af5-VEI38z_fw658)
+* ![3stars.png](http://img.hb.aicdn.com/b3489af563d50eb05eb6f7fc54e23c3596a847db559-lFgflJ_fw658)
+* ![2stars.png](http://img.hb.aicdn.com/5cf277cd96a85cafcb14c6f8531a731df5de3fdfa0b-c5a1MI_fw658)
+* ![1star.png](http://img.hb.aicdn.com/b8ce57952cfb826c56feb544aa5948cab327a838a98-XlyBH3_fw658)
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php](https://github.com/ziadoz/awesome-php).
 

@@ -154,6 +154,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Security and Management
 *Antispam, prevent brute force, ecc*
 
+* [Advanced Access Manager](https://wordpress.org/plugins/advanced-access-manager/) * ![5stars.png](http://img.hb.aicdn.com/46928568bd5af35db9ec6e850eb345a451bfbc7eb1c-482RHm_fw658) - 角色、菜单、功能等权限控制
 * [GoodBye Captcha](https://wordpress.org/plugins/goodbye-captcha/) - An extremely powerful anti-spam plugin that blocks Spam-bots without annoying captcha images.
 * [Lockdown WP Admin](https://wordpress.org/plugins/lockdown-wp-admin/) - Lockdown WP Admin conceals the administration and login screen from intruders. It can hide WordPress Admin (/wp-admin/) and and login (/wp-login.php)
 * [MainWP](https://mainwp.com/) - Self-hosted open source manager for maintaining your WordPress sites from one location.
